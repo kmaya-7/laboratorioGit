@@ -11,6 +11,6 @@ int main(){
         while (getline(archivoEntrada, linea)){
             archivoSalida<< linea;
         }
-        cout<<"Archivo copiado correctamente";
+        cout<<"Archivo copiado correctamente"<<endl;
    }
 }
